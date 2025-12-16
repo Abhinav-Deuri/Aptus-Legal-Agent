@@ -1,0 +1,7 @@
+{
+  "name": "Aptus AI Studio",
+  "description": "A highly specialized, empathetic, and multilingual legal interpreter that converts complex bureaucratic input into simplified, actionable information.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
